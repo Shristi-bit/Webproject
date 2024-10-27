@@ -1,0 +1,42 @@
+pwd : current path 
+sudo useradd -m username : add user
+
+ls  -la : list all  
+cat /etc/passwd : list all users 
+
+cd ~   : your home directory 
+cd /     : root level
+
+sudo passwd username : set username’s password
+
+su – username : switch user to username
+sudo –i : switch to root
+
+wsl --user root : on powershell if you want to reset passwords you can login as root
+whoami : current user
+
+wsl --list –verbose : list  linux instances running on wsl 
+
+man command :  manual entry (documentation) on “command” 
+
+finger :  list users that are logged in 
+
+sudo apt install : install commands 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
